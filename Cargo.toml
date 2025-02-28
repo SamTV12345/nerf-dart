@@ -3,6 +3,7 @@ name = "nerf-dart"
 version = "1.0.0"
 edition = "2024"
 license = "MIT"
+description = "A library for converting urls to identifiers"
 keywords = ["nerf-dart","nerf","dart","nerf-dart"]
 repository = "https://github.com/SamTV12345/nerf-dart"
 readme = "README.md"
